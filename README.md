@@ -11,7 +11,7 @@
 
 vscode 터미널에서 아래와 같이 실행
 
-```
+```c
 composer create-project laravel/laravel [프로젝트명] "11.0.3" //라라벨 버전
 ```
 
@@ -41,4 +41,4 @@ localhost:8000 에서 확인가능
 
 ---
 
-*thanks [The Codeholic](https://www.youtube.com/watch?v=VrQRa-afCAk) 튜토리얼 YOUTUBE
+*thanks [The Codeholic](https://www.youtube.com/watch?v=VrQRa-afCAk) 튜토리얼 YOUTUBE*
