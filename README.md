@@ -38,3 +38,7 @@ npm run dev
 ```
 
 localhost:8000 에서 확인가능
+
+---
+
+*thanks [The Codeholic](https://www.youtube.com/watch?v=VrQRa-afCAk) 튜토리얼 YOUTUBE
