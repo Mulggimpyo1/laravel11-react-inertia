@@ -37,4 +37,4 @@ php artisan serve
 npm run dev
 ```
 
-\*\* localhost:8000 에서 확인가능
+localhost:8000 에서 확인가능
