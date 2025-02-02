@@ -10,8 +10,18 @@ class Project extends Model
     /** @use HasFactory<\Database\Factories\ProjectFactory> */
     use HasFactory;
 
-    public function tasks()
+    public function projects()
     {
-        return $this->hasMany(Task::class);
+        return $this->hasMany(Project::class);
+    }
+
+    public function createdBy()
+    {
+        return $this->belongsTo(User::class, 'created_by');
+    }
+
+    public function updateddBy()
+    {
+        return $this->belongsTo(User::class, 'updated_by');
     }
 }
